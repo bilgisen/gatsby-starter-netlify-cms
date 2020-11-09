@@ -1,11 +1,11 @@
 ---
 templateKey: index-page
-title: Kahvenin Kralı burda be kardeş
-image: /img/home-jumbotron.jpg
+title: Stoffgesichtsmasken
+image: /img/covid-mesai.jpg
 heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: Atmungsaktiv, stilvoll, Baumwolle für Frauen, Männer und Kinder
 mainpitch:
-  title: Why Kaldi
+  title: Neden
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
@@ -65,5 +65,5 @@ main:
     image: /img/products-grid2.jpg
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: /img/covid-mesai.jpg
 ---
