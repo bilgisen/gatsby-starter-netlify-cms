@@ -6,10 +6,10 @@ heading: Great coffee with a conscience
 subheading: Atmungsaktiv, stilvoll, Baumwolle für Frauen, Männer und Kinder
 mainpitch:
   title: Neden
-  description: "Kaldi is the coffee store for everyone who believes that great
+  description: Kaldi is the coffee store for everyone who believes that great
     coffee shouldn't just taste good, it should do good too. We source all of
     our beans directly from small scale sustainable farmers and make sure part
-    of the profits are reinvested in their communities. "
+    of the profits are reinvested in their communities. <https://cafebleu.eu>
 description: <a href="https://cafebleu.eu">Neden</a>
 intro:
   blurbs:
